@@ -1,5 +1,6 @@
 let age = 22;    //Number datatype
 console.log(age);
+console.log(typeof(age))
 
 let name1 = "Divya"; //String
 console.log(name1);
