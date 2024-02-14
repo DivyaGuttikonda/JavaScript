@@ -4,3 +4,6 @@ const age = 21;
  console.log(age);
 }
 console.log(age);
+
+let name = 'divya';
+console.log(Name);

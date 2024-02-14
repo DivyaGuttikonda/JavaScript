@@ -7,3 +7,12 @@ person.age = 34;
 
 console.log("Age",person.age);
 console.log("Gender",person.gender);
+
+let laptop ={
+    cpu : 'i9',
+    brand1 : 'HP',
+    ram : 4
+}
+delete laptop.ram;
+console.log(laptop.brand?.length)
+console.log(laptop)

@@ -1,4 +1,4 @@
-//first common multplies of 3&6 
+//first common multplies of 3 & 6 
 
 let n = 0;
 for(let i = 1;i<=100;i++){
